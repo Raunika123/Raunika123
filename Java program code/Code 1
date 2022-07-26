@@ -1,0 +1,13 @@
+public class Main {
+  public static void main(String[] args) {
+    String abc="Hello world";
+    System.out.println(abc);
+    int a=100;
+    System.out.println(a);
+    int b;
+    b=200;
+    System.out.println(b);
+    final int c=50;
+    System.out.println(c); 
+  }
+}

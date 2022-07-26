@@ -1,0 +1,23 @@
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("Today is riany weather! ");
+    System.out.println("It is about to rain.");//these two lines will be printed on a different line. 
+    
+    System.out.print("I am cute.");
+    System.out.println("I am feeling bored.");//these two lines will be printed on the same line.
+   
+   /* System.out.println("Hello World!");
+    System.out.println("I am learning Java.");
+    System.out.println("It is awesome!");
+    System.out.print("I like java");
+    String name = "1234";
+    System.out.println(name);*/
+    int myNum=15;
+        /*System.out.println(myNum);
+        //int myNum;
+    //myNum = 15;
+    */System.out.println(myNum)
+  }
+}
+
+  
