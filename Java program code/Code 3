@@ -14,3 +14,4 @@ int y = 6;
 System.out.println(x + y); // Print the value of x + y
   }
 }
+
