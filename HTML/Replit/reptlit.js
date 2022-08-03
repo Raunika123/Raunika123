@@ -21,11 +21,5 @@ console.log(fullname())
 //var lastname="Malhotra";
 //var fullname=firstname+lastname;
 //alert(fullname);
-//alert('I love birds because they are very pretty and colorful.')
-//var g="I love rabbits";
-//var f= " because they are soft.";
-//var p= g+f;
-//alert(p);
-var firstname="Raunika";
-var lastname="Malhotra";
+
 
